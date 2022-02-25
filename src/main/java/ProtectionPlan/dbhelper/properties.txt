@@ -1,0 +1,9 @@
+driver=com.mysql.jdbc.Driver
+server=jdbc:mysql://localhost:3306/j2ee-project
+username=root
+password=@Bhatti123
+
+driver2=com.mysql.jdbc.Driver
+server2=jdbc:mysql://localhost:3306/j2ee-project
+username2=root
+password2=123Tim
